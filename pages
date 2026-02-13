@@ -1,9 +1,0 @@
-aroma-log/
-  ├── pages/
-  │    ├── index.js
-  │    ├── products.js
-  │    └── investments.js
-  ├── public/
-  ├── styles/
-  │    └── globals.css
-  └── package.json
