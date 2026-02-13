@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <div>
+      <h1>Bienvenue sur Aroma Log</h1>
+      <p>Votre boutique en ligne pour des arômes, des senteurs, et des investissements dans des projets !</p>
+    </div>
+  );
+}
