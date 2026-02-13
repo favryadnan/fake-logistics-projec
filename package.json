@@ -1,0 +1,16 @@
+{
+  "name": "aroma-log",
+  "version": "1.0.0",
+  "description": "Aroma Log - A logistics and product project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^12.3.7",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  }
+}
